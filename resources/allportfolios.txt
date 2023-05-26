@@ -1,0 +1,4 @@
+pragya~C:\Users\pragy\IdeaProjects\PDP Projects\Group\Stocks Application\resources\pragya.txt~2022-11-23~true
+sample~C:\Users\pragy\IdeaProjects\PDP Projects\Group\Stocks Application\resources\sample.txt~2022-11-23~true
+sample~C:\Users\pragy\IdeaProjects\PDP Projects\Group\Stocks Application\resources\sample.txt~2022-11-23~true
+test1~C:\Users\pragy\IdeaProjects\PDP Projects\Group\Stocks Application\resources\test1.txt~2022-11-23~true
